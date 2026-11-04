@@ -1,7 +1,6 @@
-
 <div align="center">
-
-<img src="banner.png" width="100%" alt="Nithya Doresha - Data Analytics" />
+  <img src="banner.png" width="100%" alt="Nithya Doresha - Data Analytics Banner" />
+</div>
 
 # Hi there! 👋 I'm Nithya Doresha
 
