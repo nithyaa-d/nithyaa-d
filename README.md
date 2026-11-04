@@ -1,5 +1,4 @@
-
-<div align="center">
+ <div align="center">
 
 # Hi, I'm Nithya Doresha 👋
 
@@ -8,8 +7,7 @@
 **Turning complex data into business decisions and intelligent solutions.**
 
 📍 Gothenburg, Sweden  
-🚀 **Open to relocation anywhere within Sweden**  
-💼 Open to Data Analyst, BI Analyst, Analytics Engineer & Data Scientist opportunities
+🚀 **Open to relocation anywhere within Sweden**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nithyad2608/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithyad2608@gmail.com)
@@ -20,21 +18,11 @@
 
 ## 👩‍💻 About Me
 
-I'm a data professional with **3+ years of experience** building analytics, business intelligence, machine learning, and AI-driven solutions across technology and consulting environments.
+Data professional with **3+ years of experience** building analytics, business intelligence, machine learning and AI-driven solutions.
 
-My experience spans the complete analytics lifecycle — from data extraction and transformation to predictive modelling, dashboard development, automation, and delivering actionable insights to business stakeholders.
+Previously worked at **Vonage (Ericsson)** and **Ganit**, delivering data solutions, automating reporting and translating business problems into actionable insights.
 
-Previously, I worked with **Vonage (Ericsson)** and **Ganit**, where I focused on solving real-world business problems through data, analytics, and emerging AI technologies.
-
-I enjoy working at the intersection of:
-
-- Data Analytics & Business Intelligence
-- Data Engineering & Data Modelling
-- Machine Learning & Predictive Analytics
-- Generative AI, LLMs & AI Agents
-- Business Process Automation
-
-I'm currently based in Gothenburg, Sweden, and **open to relocating anywhere within Sweden** for the right opportunity.
+My interests include Data Analytics, Data Engineering, Machine Learning, Generative AI and intelligent automation.
 
 ---
 
@@ -42,12 +30,12 @@ I'm currently based in Gothenburg, Sweden, and **open to relocating anywhere wit
 
 | Area | Business Impact |
 |---|---|
-| AI & Automation | Built and launched 14 AI agents supporting 2,000+ users |
-| BI & Reporting | Reduced recurring BI requests by approximately 40% |
-| Reporting Automation | Reduced manual reporting effort by 40–60% |
-| Demand Forecasting | Improved forecast accuracy by 42% |
-| Supply Chain Analytics | Helped reduce stockouts by 35% |
-| BI Cost Optimisation | Reduced reporting platform licensing costs by approximately 96% |
+| 🤖 AI & Automation | 14 AI agents supporting 2,000+ users |
+| 📊 BI & Reporting | 40% fewer recurring BI requests |
+| ⚡ Automation | 40–60% reduction in manual reporting effort |
+| 📈 Forecasting | 42% improvement in forecast accuracy |
+| 📦 Supply Chain | 35% fewer stockouts |
+| 💰 Cost Optimisation | Approximately 96% lower BI licensing costs |
 
 ---
 
@@ -56,33 +44,18 @@ I'm currently based in Gothenburg, Sweden, and **open to relocating anywhere wit
 ### Data Analyst I — Vonage (Ericsson)
 **June 2025 – September 2026**
 
-Worked as the dedicated BI and Analytics resource supporting global Sales and Marketing teams.
-
-**Key Contributions:**
-
-- Designed and developed Snowflake data models, semantic layers, and analytics solutions for business stakeholders.
-- Built and launched **14 AI agents** using Glean and Snowflake Cortex, supporting more than 2,000 users.
-- Developed natural-language-to-SQL workflows and specialised AI agents for pipeline, revenue, margin, and sales commission analytics.
-- Automated reporting workflows integrating Salesforce, Gong, 6sense, Thrive LMS, and Snowflake.
-- Developed Streamlit applications and migrated reporting solutions away from Tableau, significantly reducing licensing costs.
-- Built account intelligence and targeting solutions covering more than 10,000 accounts.
-- Developed win/loss and territory-planning analytics to improve pipeline visibility and business decision-making.
-- Collaborated with global business stakeholders to translate complex business requirements into scalable analytical solutions.
+- Built Snowflake data models, semantic layers and analytics solutions.
+- Developed 14 AI agents using Glean and Snowflake Cortex.
+- Automated reporting across Salesforce, Gong, 6sense and Snowflake.
+- Created Streamlit applications and natural-language-to-SQL workflows.
 
 ### Senior Data Analyst — Ganit Inc.
 **September 2023 – June 2025**
 
-Worked on data analytics and machine learning solutions, including demand forecasting for a large FMCG business.
-
-**Key Contributions:**
-
-- Developed demand and price forecasting solutions for 1,400+ FMCG products.
-- Applied ARIMA, Prophet, LightGBM, feature engineering, and statistical analysis to improve forecast performance.
-- Achieved a **42% improvement in forecast accuracy** and helped reduce stockouts by 35%.
-- Built data pipelines and supported cloud data migration using AWS S3, Lambda, and RDS.
-- Developed interactive dashboards and business reporting solutions to track operational KPIs.
-- Worked on customer sentiment analysis, image-based analytics, and Generative AI applications.
-- Presented analytical findings and recommendations to support business and operational decisions.
+- Developed demand and price forecasting for 1,400+ FMCG products.
+- Applied Python, SQL, ARIMA, Prophet and LightGBM.
+- Improved forecast accuracy by 42% and helped reduce stockouts by 35%.
+- Built analytics dashboards and AWS-based data solutions.
 
 ---
 
@@ -104,6 +77,7 @@ Worked on data analytics and machine learning solutions, including demand foreca
 ### Data Platforms & Cloud
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 ### Machine Learning & AI
@@ -113,56 +87,34 @@ Worked on data analytics and machine learning solutions, including demand foreca
 ![LLMs](https://img.shields.io/badge/LLMs-6A5ACD?style=flat-square)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-008080?style=flat-square)
 
-**Areas of Expertise**
-
-- Data extraction, transformation, and analysis
-- SQL querying and data modelling
-- Statistical analysis and hypothesis testing
-- Demand forecasting and predictive analytics
-- Feature engineering and model evaluation
-- Business intelligence and KPI reporting
-- Reporting automation and workflow optimisation
-- Generative AI and LLM-powered applications
-- AI agents and natural-language-to-SQL workflows
-
 ---
 
-## 🔬 Selected Work & Business Solutions
+## 💻 Featured GitHub Project
 
-*Examples of professional work. Proprietary company data, internal systems, and source code are not included.*
+### 📊 Retail Sales Analytics
 
-### 🤖 AI-Powered Sales Intelligence
+**Python · PostgreSQL · SQL · Data Analysis**
 
-Developed AI-driven reporting and sales intelligence workflows bringing together CRM, conversation intelligence, learning, and data warehouse information.
+An end-to-end retail analytics project demonstrating practical data cleaning, exploratory analysis, SQL querying and business intelligence.
 
-**Technology:** Snowflake · Glean · AI Agents · SQL · Sales Analytics
+- Analysed 9,994 transactions across 5,009 orders.
+- Built Python data cleaning and validation pipelines.
+- Developed SQL queries for sales, customer and profitability analysis.
+- Created six visualisations and a business insights report.
 
-### 📈 FMCG Demand Forecasting
+| Total Sales | Total Profit | Customers |
+|---:|---:|---:|
+| $2.30M | $286.40K | 793 |
 
-Built forecasting solutions across 1,400+ products to improve demand planning, inventory decisions, and operational efficiency.
-
-**Technology:** Python · SQL · ARIMA · Prophet · LightGBM
-
-### 📊 Business Intelligence & Reporting Automation
-
-Created reporting applications, data models, and automated KPI workflows to improve access to business insights and reduce manual reporting.
-
-**Technology:** Snowflake · Streamlit · Tableau · Power BI · Data Modelling
-
-### 🎯 Account Intelligence & Targeting
-
-Worked on account prioritisation and territory analytics to help sales teams identify opportunities and improve pipeline visibility.
-
-**Technology:** Data Analytics · AI · Account Scoring · Business Intelligence
+**[🔗 Explore the complete project](https://github.com/nithyaa-d/sales-analytics-project)**
 
 ---
 
 ## 🏆 Recognition & Achievements
 
-- **Key Contributor Award — Ericsson**
-- **Rising Star Award** for contributions to AI agent development and deployment.
-- **Company-wide Innovation Hackathon Winner — 2025**
-- **Company-wide Innovation Hackathon Winner — 2026**
+- 🏅 Ericsson Key Contributor Award
+- ⭐ Rising Star Award
+- 🥇 Innovation Hackathon Winner — 2025 & 2026
 
 ---
 
@@ -171,30 +123,15 @@ Worked on account prioritisation and territory analytics to help sales teams ide
 **Bachelor of Technology — Industrial Engineering**
 
 JSS Science and Technology University  
-2019 – 2023 | GPA: 9.1/10
-
----
-
-## 🌱 What I'm Exploring
-
-- Building intelligent AI agents and multi-agent workflows.
-- Applying Generative AI and LLMs to real-world business problems.
-- Strengthening data engineering and scalable analytics architectures.
-- Exploring advanced machine learning and predictive modelling.
-- Developing practical end-to-end data and AI projects.
+GPA: 9.1/10 | 2019–2023
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with people working in Data Analytics, Business Intelligence, Data Engineering, Machine Learning, and AI.
+📍 **Gothenburg, Sweden | Open to relocation anywhere within Sweden**
 
-If you're building something interesting, collaborating on data projects, or hiring in these areas, let's connect!
-
-📍 **Based in Gothenburg, Sweden | Open to relocation anywhere within Sweden**
-
-- **LinkedIn:** [linkedin.com/in/nithyad2608](https://www.linkedin.com/in/nithyad2608/)
-- **Email:** nithyad2608@gmail.com
+[LinkedIn](https://www.linkedin.com/in/nithyad2608/) · [GitHub Repositories](https://github.com/nithyaa-d?tab=repositories) · nithyad2608@gmail.com
 
 <div align="center">
 
